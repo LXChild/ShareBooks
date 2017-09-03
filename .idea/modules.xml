@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/share-books-aggregator.iml" filepath="$PROJECT_DIR$/share-books-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-books-common/share-books-common.iml" filepath="$PROJECT_DIR$/share-books-common/share-books-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-books-server/share-books-server.iml" filepath="$PROJECT_DIR$/share-books-server/share-books-server.iml" />
+    </modules>
+  </component>
+</project>

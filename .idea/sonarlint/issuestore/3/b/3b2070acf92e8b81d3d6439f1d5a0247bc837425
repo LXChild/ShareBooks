@@ -1,0 +1,7 @@
+
+§%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.lang.Exception'.(Âððš
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Ú›Ðùÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ð¢è+
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë´æò
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Âððš
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰

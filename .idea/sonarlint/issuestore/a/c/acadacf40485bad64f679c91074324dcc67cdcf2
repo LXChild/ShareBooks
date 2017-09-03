@@ -1,0 +1,11 @@
+
+nsquid:UnusedPrivateMethod"ERemove this unused private "isCreatedBeforeLastPasswordReset" method.(Ì˝ûa8Ëßª—€+
+^squid:S2259"DA "NullPointerException" could be thrown; "claims" is nullable here.(Œº°Õˇˇˇˇˇ
+csquid:HiddenFieldCheck">Rename "expiration" which hides the field declared at line 27.(˚˛Õ≤˛ˇˇˇˇ
+Hsquid:S1481",Remove this unused "created" local variable.(ÅπÔÀ8¬ªû—€+
+Wsquid:S1854";Remove this useless assignment to local variable "created".(ÅπÔÀ8¬ªû—€+
+^squid:S2259"DA "NullPointerException" could be thrown; "claims" is nullable here.(ÍÎÖ‚¸ˇˇˇˇ
+Ysquid:S2259"DA "NullPointerException" could be thrown; "claims" is nullable here.(ÎƒŸ˜
+^squid:S2259"DA "NullPointerException" could be thrown; "claims" is nullable here.(¡îñ¨˘ˇˇˇˇ
+]squid:HiddenFieldCheck">Rename "expiration" which hides the field declared at line 27.(Ü»‡C
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢º—Ç

@@ -1,0 +1,29 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ºÎ8¯©¨¤İ+
+?squid:S1659"#Declare "cell3" on a separate line.(¶î‡³8¯©¨¤İ+
+?squid:S1659"#Declare "cell4" on a separate line.(¶î‡³8»‡ò¤İ+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äØŠ8¯©¨¤İ+
+‰ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦¹ö®8¯©¨¤İ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àåª›ùÿÿÿÿ8Øú´¥İ+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(µŠÂÜ8½ª¤İ+
+]squid:S3457"AFormat specifiers should be used instead of string concatenation.(ºÀËµ8Øú´¥İ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºÀËµ8Øú´¥İ+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢“åıÿÿÿÿ8¯©¨¤İ+
+Dsquid:S1125"(Remove the literal "true" boolean value.(Øéˆ­8¯©¨¤İ+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¯©¨¤İ+
+bsquid:S3457"AFormat specifiers should be used instead of string concatenation.(Àåª›ùÿÿÿÿ8Øú´¥İ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(·©û±8¯©¨¤İ+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯©¨¤İ+
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢“åıÿÿÿÿ8¯©¨¤İ+
+?squid:S1659"#Declare "cell2" on a separate line.(¶î‡³8¯©¨¤İ+
+?squid:S1659"#Declare "cell5" on a separate line.(¶î‡³8»‡ò¤İ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(îóŒúÿÿÿÿ8¯©¨¤İ+
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(“‡ê»ûÿÿÿÿ8¯©¨¤İ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚—Â¾øÿÿÿÿ8¯©¨¤İ+
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(°åŸõüÿÿÿÿ8¯©¨¤İ+
